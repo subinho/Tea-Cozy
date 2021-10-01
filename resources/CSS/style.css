@@ -39,3 +39,20 @@ a:visited {
     margin: 10px;
     height: 50px;
 }
+
+#welcome {
+    width: 1200px;
+    height: 700px;
+    background-image: url(../images/img-mission-background.jpg);
+    position: relative;
+    top: 69px;
+    margin: 0 auto;
+}
+
+#welcome-text {
+    position: absolute;
+    top: 300px;
+    background-color: black;
+    width: 100%;
+    margin: 0 auto;
+}
